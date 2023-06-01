@@ -1,8 +1,9 @@
-<html>
+<Html>
    <head>
     </head>
          <body>
-           <input tyoe="text" value="A">
+           <input type="text" value="A">
+           <pune>
            </body>
-        </html>
+        </Html>
         
